@@ -1,0 +1,43 @@
+﻿@model NvqLab6.Models.NvqEmployee
+@{
+    ViewData["Title"] = "Chỉnh sửa nhân viên";
+}
+
+<h2>Chỉnh sửa nhân viên</h2>
+
+<form asp-action="NvqEditPUT" method="post">
+    <input type="hidden" asp-for="NvqId" />
+
+    <div class="form-group">
+        <label>Họ tên</label>
+        <input asp-for="NvqName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Ngày sinh</label>
+        <input asp-for="NvqBirthDay" type="date" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="NvqEmail" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Điện thoại</label>
+        <input asp-for="NvqPhone" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Lương</label>
+        <input asp-for="NvqSalary" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Trạng thái</label>
+        <input asp-for="NvqStatus" type="checkbox" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Cập nhật</button>
+    <a class="btn btn-secondary" asp-action="NvqIndex">Quay lại</a>
+</form>
