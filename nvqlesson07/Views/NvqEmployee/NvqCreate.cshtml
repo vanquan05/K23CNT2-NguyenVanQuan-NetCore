@@ -1,0 +1,60 @@
+﻿@model nvqlesson07.Models.NvqEmployee
+
+@{
+    ViewData["Title"] = "Them moi nhan vien";
+}
+
+<h1>Them moi nhan vien</h1>
+
+<h4>NvqEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="NvqCreate" method="">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NvqId" class="control-label"></label>
+                <input asp-for="NvqId" class="form-control" />
+                <span asp-validation-for="NvqId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvqName" class="control-label"></label>
+                <input asp-for="NvqName" class="form-control" />
+                <span asp-validation-for="NvqName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvqBirthDay" class="control-label"></label>
+                <input asp-for="NvqBirthDay" class="form-control" />
+                <span asp-validation-for="NvqBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvqEmail" class="control-label"></label>
+                <input asp-for="NvqEmail" class="form-control" />
+                <span asp-validation-for="NvqEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvqPhone" class="control-label"></label>
+                <input asp-for="NvqPhone" class="form-control" />
+                <span asp-validation-for="NvqPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NvqSalary" class="control-label"></label>
+                <input asp-for="NvqSalary" class="form-control" />
+                <span asp-validation-for="NvqSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="NvqStatus" /> @Html.DisplayNameFor(model => model.NvqStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="NvqIndex">Back to List</a>
+</div>
+

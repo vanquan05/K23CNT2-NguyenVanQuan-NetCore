@@ -1,0 +1,71 @@
+﻿@model IEnumerable<nvqlesson07.Models.NvqEmployee>
+
+@{
+    ViewData["Title"] = "NvqIndex";
+}
+
+<h1>Danh sach nhan vien </h1>
+
+<p>
+    <a asp-action="NvqCreate" class="btn btn-primary">Them moi</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqStatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "NvqEdit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "nvqDetails", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "NvqDelete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
