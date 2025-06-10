@@ -45,7 +45,7 @@ namespace nvqlesson07.Controllers
             {
                 nvqModel.NvqId = NvqListEmployee.Max(e => e.NvqId) + 1;
                 NvqListEmployee.Add(nvqModel);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(NvqIndex));
             }
             catch
             {
@@ -87,18 +87,27 @@ namespace nvqlesson07.Controllers
         // GET: NvqEmployeeController/Delete/5
         public ActionResult NvqDelete(int id)
         {
-            
-            return View();
+            var nvqModel = NvqListEmployee.FirstOrDefault(x => x.NvqId == id);
+            return View(nvqModel);
         }
 
-        // POST: NvqEmployeeController/Delete/5
+        // POST: nvqEmployee/nvqDelete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public ActionResult nvqDelete(int id, NvqEmployee nvqModel)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                // cập nhật xóa model khỏi danh sách
+                for (int i = 0; i < NvqListEmployee.Count; i++)
+                {
+                    if (NvqListEmployee[i].NvqId == id)
+                    {
+                        NvqListEmployee.RemoveAt(i);
+                        break;
+                    }
+                }
+                return RedirectToAction(nameof(NvqIndex));
             }
             catch
             {

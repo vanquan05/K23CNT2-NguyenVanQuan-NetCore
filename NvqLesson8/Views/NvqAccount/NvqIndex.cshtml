@@ -1,0 +1,89 @@
+﻿@model IEnumerable<NvqLesson8.Models.NvqAccount>
+
+@{
+    ViewData["Title"] = "NvqIndex";
+}
+
+<h1>NvqIndex</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqAvatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqBirthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqFacebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqAvatar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqBirthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqFacebook)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

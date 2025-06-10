@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\controllers\\nvqemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:controllers\\nvqemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\shared\\_nvqnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\shared\\_nvqnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\models\\nvqemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:models\\nvqemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\controllers\\nvqemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:controllers\\nvqemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\controllers\\nvqhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:controllers\\nvqhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqhome\\nvqabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqhome\\nvqabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\shared\\_nvqnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\shared\\_nvqnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\shared\\_nvqlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,8 +43,36 @@
       "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqhome\\nvqabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqhome\\nvqabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqemployee\\nvqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqemployee\\nvqcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\views\\nvqhome\\nvqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:views\\nvqhome\\nvqindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|d:\\k23cnt2-nvq-net core\\k23cnt2-nguyenvanquan-netcore\\nvqlesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526031BE-09B1-4B51-A17C-2C185820514B}|nvqlesson07.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +82,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:48:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:48:22.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:47:09.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:46:34.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NvqDelete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqEmployee\\NvqDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\NvqEmployee\\NvqDelete.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqEmployee\\NvqDelete.cshtml",
+              "RelativeToolTip": "Views\\NvqEmployee\\NvqDelete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T04:08:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NvqIndex.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqHome\\NvqIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\NvqHome\\NvqIndex.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqHome\\NvqIndex.cshtml",
+              "RelativeToolTip": "Views\\NvqHome\\NvqIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T02:55:51.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "NvqDetails.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqEmployee\\NvqDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\NvqEmployee\\NvqDetails.cshtml",
@@ -75,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "NvqEdit.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqEmployee\\NvqEdit.cshtml",
               "RelativeDocumentMoniker": "Views\\NvqEmployee\\NvqEdit.cshtml",
@@ -88,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "NvqCreate.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqEmployee\\NvqCreate.cshtml",
               "RelativeDocumentMoniker": "Views\\NvqEmployee\\NvqCreate.cshtml",
@@ -101,111 +203,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "NvqIndex.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqEmployee\\NvqIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\NvqEmployee\\NvqIndex.cshtml",
               "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqEmployee\\NvqIndex.cshtml",
               "RelativeToolTip": "Views\\NvqEmployee\\NvqIndex.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-03T01:51:03.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NvqEmployeeController.cs",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Controllers\\NvqEmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\NvqEmployeeController.cs",
               "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Controllers\\NvqEmployeeController.cs",
               "RelativeToolTip": "Controllers\\NvqEmployeeController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAD4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T01:44:48.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "NvqEmployee.cs",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Models\\NvqEmployee.cs",
               "RelativeDocumentMoniker": "Models\\NvqEmployee.cs",
               "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Models\\NvqEmployee.cs",
               "RelativeToolTip": "Models\\NvqEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T01:39:17.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "NvqAbout.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqHome\\NvqAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\NvqHome\\NvqAbout.cshtml",
               "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\NvqHome\\NvqAbout.cshtml",
               "RelativeToolTip": "Views\\NvqHome\\NvqAbout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-03T01:30:24.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T01:29:21.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "NvqHomeController.cs",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Controllers\\NvqHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\NvqHomeController.cs",
               "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Controllers\\NvqHomeController.cs",
               "RelativeToolTip": "Controllers\\NvqHomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T01:26:52.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "_NvqNavbar.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\Shared\\_NvqNavbar.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_NvqNavbar.cshtml",
               "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\Shared\\_NvqNavbar.cshtml",
               "RelativeToolTip": "Views\\Shared\\_NvqNavbar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-03T01:25:13.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "_NvqLayout.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\Shared\\_NvqLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_NvqLayout.cshtml",
               "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\Shared\\_NvqLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_NvqLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-03T01:23:46.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\nvqlesson07\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
