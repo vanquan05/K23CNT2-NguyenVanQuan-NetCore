@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Models",
+    "\\Views",
+    "\\Views\\NvqAccount",
+    "\\Views\\NvqHome",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Views\\NvqHome\\NvqIndex.cshtml",
+  "PreviewInSolutionExplorer": false
+}

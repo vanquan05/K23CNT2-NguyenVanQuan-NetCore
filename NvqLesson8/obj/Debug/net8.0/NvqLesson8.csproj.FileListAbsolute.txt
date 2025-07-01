@@ -225,3 +225,15 @@ D:\K23CNT2-NVQ-Net Core\NvqLesson8\obj\Debug\net8.0\refint\NvqLesson8.dll
 D:\K23CNT2-NVQ-Net Core\NvqLesson8\obj\Debug\net8.0\NvqLesson8.pdb
 D:\K23CNT2-NVQ-Net Core\NvqLesson8\obj\Debug\net8.0\NvqLesson8.genruntimeconfig.cache
 D:\K23CNT2-NVQ-Net Core\NvqLesson8\obj\Debug\net8.0\ref\NvqLesson8.dll
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.csproj.AssemblyReference.cache
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.GeneratedMSBuildEditorConfig.editorconfig
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.AssemblyInfoInputs.cache
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.AssemblyInfo.cs
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.csproj.CoreCompileInputs.cache
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.MvcApplicationPartsAssemblyInfo.cache
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.RazorAssemblyInfo.cache
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.RazorAssemblyInfo.cs
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.sourcelink.json
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.dll
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\refint\NvqLesson8.dll
+D:\K23CNT2-NVQ-Net Core\K23CNT2-NguyenVanQuan-NetCore\NvqLesson8\obj\Debug\net8.0\NvqLesson8.pdb

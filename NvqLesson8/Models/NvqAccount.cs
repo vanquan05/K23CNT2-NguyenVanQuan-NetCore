@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
 
 namespace NvqLesson8.Models
 {
@@ -49,6 +50,24 @@ namespace NvqLesson8.Models
 
         [Display(Name = "Facebook")]
         public string NvqFacebook { get; set; }
+       {
+    private readonly YourDbContext _context;
+
+        public NvqAccountController(YourDbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            var account = _context.NvqAccounts.Find(id);
+            if (account != null)
+            {
+                _context.NvqAccounts.Remove(account);
+                _context.SaveChanges();
+            }
+            return RedirectToAction("NvqIndex");
+        }
     }
 }
-

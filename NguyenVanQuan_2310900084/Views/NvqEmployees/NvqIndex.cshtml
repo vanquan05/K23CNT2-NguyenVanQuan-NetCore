@@ -1,0 +1,53 @@
+﻿@model IEnumerable<NguyenVanQuan_2310900084.Models.NvqEmployee>
+
+@{
+    ViewData["Title"] = "Danh sach sinh vien";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="NvqCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NvqEmpStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqEmpStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NvqEmpStatus)
+            </td>
+            <td>
+                    <a asp-action="NvqEdit" asp-route-nvqId="@item.NvqEmpId">Edit</a> |
+                    <a asp-action="NvqDetails" asp-route-nvqId="@item.NvqEmpId">Details</a> |
+                    <a asp-action="NvqDelete" asp-route-nvqId="@item.NvqEmpId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

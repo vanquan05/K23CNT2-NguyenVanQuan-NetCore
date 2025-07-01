@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\K23CNT2-NVQ-Net Core\\NvqLesson8\\NvqLesson8.csproj": {}
+    "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson8\\NvqLesson8.csproj": {}
   },
   "projects": {
-    "D:\\K23CNT2-NVQ-Net Core\\NvqLesson8\\NvqLesson8.csproj": {
+    "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson8\\NvqLesson8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\K23CNT2-NVQ-Net Core\\NvqLesson8\\NvqLesson8.csproj",
+        "projectUniqueName": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson8\\NvqLesson8.csproj",
         "projectName": "NvqLesson8",
-        "projectPath": "D:\\K23CNT2-NVQ-Net Core\\NvqLesson8\\NvqLesson8.csproj",
+        "projectPath": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson8\\NvqLesson8.csproj",
         "packagesPath": "C:\\Users\\Quan\\.nuget\\packages\\",
-        "outputPath": "D:\\K23CNT2-NVQ-Net Core\\NvqLesson8\\obj\\",
+        "outputPath": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Quan\\AppData\\Roaming\\NuGet\\NuGet.Config",

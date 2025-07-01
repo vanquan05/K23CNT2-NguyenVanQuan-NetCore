@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nvqMyAppMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19d5c3ae7413514f50623b381d515e4f5a46e037")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+222c3d04a8ad3e802b41bb865c734fa82d5ba26d")]
 [assembly: System.Reflection.AssemblyProductAttribute("nvqMyAppMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nvqMyAppMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

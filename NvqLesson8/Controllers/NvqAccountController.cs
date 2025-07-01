@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using NvqLesson8.Models;
 
-namespace NvqLesson08Annotation.Controllers
+namespace NvqLesson8Annotation.Controllers
 {
     public class NvqAccountController : Controller
     {

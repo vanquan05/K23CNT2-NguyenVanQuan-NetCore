@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NFp1RjUdCSs=",
+  "dgSpecHash": "N5vtagd3B5o=",
   "success": true,
-  "projectFilePath": "D:\\K23CNT2-NVQ-Net Core\\NvqLesson8\\NvqLesson8.csproj",
+  "projectFilePath": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson8\\NvqLesson8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Quan\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Quan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

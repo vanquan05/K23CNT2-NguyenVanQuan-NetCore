@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NvqLad06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a1223bd1e91d41519f5aa71107a3bb2c02e13d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+222c3d04a8ad3e802b41bb865c734fa82d5ba26d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NvqLad06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NvqLad06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

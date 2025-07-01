@@ -71,5 +71,65 @@
 
 <div>
     <a asp-action="Index">Back to List</a>
+    <a asp-action="NvqCreate" class="btn btn-success">Thêm mới</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Mã</th>
+                <th>Họ tên</th>
+                <th>Avatar</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.NvqId</td>
+                <td>@item.NvqFullName</td>
+                <td>
+                    <img src="@item.NvqAvatar" width="50" />
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.NvqId" class="btn btn-primary">Chỉnh sửa</a>
+                    <form asp-action="Delete" asp-route-id="@item.NvqId" method="post"
+                          onsubmit="return confirm('Bạn có chắc muốn xóa?');"
+                          style="display:inline">
+                        <button type="submit" class="btn btn-danger">Xóa</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table><table class="table">
+    <thead>
+        <tr>
+            <th>Mã</th>
+            <th>Họ tên</th>
+            <th>Avatar</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.NvqId</td>
+            <td>@item.NvqFullName</td>
+            <td>
+                <img src="@item.NvqAvatar" width="50" />
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.NvqId" class="btn btn-primary">Chỉnh sửa</a>
+                <form asp-action="Delete" asp-route-id="@item.NvqId" method="post"
+                      onsubmit="return confirm('Bạn có chắc muốn xóa?');"
+                      style="display:inline">
+                    <button type="submit" class="btn btn-danger">Xóa</button>
+                </form>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
 </div>
 
