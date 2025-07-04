@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\K23CNT2-NVQ-Net Core\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj": {}
+    "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj": {}
   },
   "projects": {
-    "D:\\K23CNT2-NVQ-Net Core\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj": {
+    "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\K23CNT2-NVQ-Net Core\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj",
+        "projectUniqueName": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj",
         "projectName": "NguyenVanQuan_2310900084",
-        "projectPath": "D:\\K23CNT2-NVQ-Net Core\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj",
+        "projectPath": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj",
         "packagesPath": "C:\\Users\\Quan\\.nuget\\packages\\",
-        "outputPath": "D:\\K23CNT2-NVQ-Net Core\\NguyenVanQuan_2310900084\\obj\\",
+        "outputPath": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NguyenVanQuan_2310900084\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Quan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7602,11 +7602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\K23CNT2-NVQ-Net Core\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj",
+      "projectUniqueName": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj",
       "projectName": "NguyenVanQuan_2310900084",
-      "projectPath": "D:\\K23CNT2-NVQ-Net Core\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj",
+      "projectPath": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NguyenVanQuan_2310900084\\NguyenVanQuan_2310900084.csproj",
       "packagesPath": "C:\\Users\\Quan\\.nuget\\packages\\",
-      "outputPath": "D:\\K23CNT2-NVQ-Net Core\\NguyenVanQuan_2310900084\\obj\\",
+      "outputPath": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NguyenVanQuan_2310900084\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Quan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7688,5 +7688,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
