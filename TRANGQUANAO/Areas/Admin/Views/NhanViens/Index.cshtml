@@ -1,0 +1,50 @@
+﻿@model IEnumerable<TRANGQUANAO.Models.NhanVien>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh sách nhân viên</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">➕ Thêm mới</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HoTen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MatKhau)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MatKhau)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.MaNv" class="btn btn-warning">✏️ Sửa</a>
+                    <a asp-action="Details" asp-route-id="@item.MaNv" class="btn btn-primary">🔍 Xem</a>
+                    <a asp-action="Delete" asp-route-id="@item.MaNv" class="btn btn-danger"
+                       onclick="return confirm('Bạn có chắc chắn muốn xóa?')">🗑️ Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

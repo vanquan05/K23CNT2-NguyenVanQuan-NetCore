@@ -1,0 +1,47 @@
+﻿@model TRANGQUANAO.Models.Loai
+
+@{
+    ViewData["Title"] = "Sửa loại";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="text-primary mb-4">Sửa thông tin Loại sản phẩm </h1>
+
+<div class="card shadow-lg p-4">
+    <form asp-area="Admin" asp-controller="Loais" asp-action="Edit" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="MaLoai" />
+
+            <div class="form-group">
+                <label asp-for="TenLoai" class="control-label"></label>
+                <input asp-for="TenLoai" class="form-control" />
+                <span asp-validation-for="TenLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TenLoaiAlias" class="control-label"></label>
+                <input asp-for="TenLoaiAlias" class="form-control" />
+                <span asp-validation-for="TenLoaiAlias" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MoTa" class="control-label"></label>
+                <input asp-for="MoTa" class="form-control" />
+                <span asp-validation-for="MoTa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Hinh" class="control-label"></label>
+                <input asp-for="Hinh" type="file" name="Hinh" class="form-control" />
+                <span asp-validation-for="Hinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-success px-4 py-2">💾 Lưu lại</button>
+                <a asp-action="Index" class="btn btn-secondary px-4 py-2">⬅ Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

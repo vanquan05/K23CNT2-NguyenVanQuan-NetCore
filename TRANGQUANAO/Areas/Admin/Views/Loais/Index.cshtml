@@ -1,0 +1,67 @@
+﻿@model IEnumerable<TRANGQUANAO.Models.Loai>
+
+@{
+    ViewData["Title"] = "Danh sách loại";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+
+<h1>Danh sách loại</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">➕ Thêm mới</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenLoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenLoaiAlias)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hinh)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenLoaiAlias)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hinh)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.MaLoai" class="btn btn-warning">✏️ Sửa</a>
+                    <a asp-action="Details" asp-route-id="@item.MaLoai" class="btn btn-primary">🔍 Xem</a>
+                    <a asp-action="Delete" asp-route-id="@item.MaLoai" class="btn btn-danger"
+                       onclick="return confirm('Bạn có chắc chắn muốn xóa?')">🗑️ Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

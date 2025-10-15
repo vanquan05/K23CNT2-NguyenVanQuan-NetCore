@@ -1,0 +1,104 @@
+﻿@model IEnumerable<TRANGQUANAO.Models.HangHoa>
+
+@{
+    ViewData["Title"] = "Danh sách hàng hóa";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show mt-3" role="alert">
+        <strong>Lỗi!</strong> @TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<h1>Danh sách hàng hóa</h1>
+
+<p>
+    <a asp-area="Admin" asp-controller="HangHoas" asp-action="Create" class="btn btn-success">
+        ➕ Thêm hàng hóa
+    </a>
+</p> 
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenHh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenAlias)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTaDonVi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DonGia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgaySx)
+            </th>
+            <th>
+				@Html.DisplayNameFor(model => model.GiamGia)
+            </th>
+            <th>
+				@Html.DisplayNameFor(model => model.SoLanXem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaLoaiNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaNccNavigation)
+            </th>
+            <th>Chức Năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenHh)
+                </td>
+                <td>
+					@Html.DisplayFor(modelItem => item.TenAlias)
+                </td>
+                <td>
+					@Html.DisplayFor(modelItem => item.MoTaDonVi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DonGia)
+                </td>
+                <td>
+					@Html.DisplayFor(modelItem => item.NgaySx)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GiamGia)
+                </td>
+                <td>
+					@Html.DisplayFor(modelItem => item.SoLanXem)
+                </td>
+                <td>
+					@Html.DisplayFor(modelItem => item.MoTa)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaLoaiNavigation.TenLoai)
+                </td>
+                <td>
+					@Html.DisplayFor(modelItem => item.MaNccNavigation.TenCongTy)
+                </td>
+                <td>
+                    <a asp-area="Admin" asp-controller="HangHoas" asp-action="Edit" asp-route-id="@item.MaHh" class="btn btn-warning">✏️ Sửa</a>
+                    <a asp-area="Admin" asp-controller="HangHoas" asp-action="Details" asp-route-id="@item.MaHh" class="btn btn-primary">🔍 Xem</a>
+                    <a asp-area="Admin" asp-controller="HangHoas" asp-action="Delete" asp-route-id="@item.MaHh" class="btn btn-danger"
+                       onclick="return confirm('Bạn có chắc chắn muốn xóa?')">🗑️ Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+  

@@ -1,0 +1,125 @@
+﻿/* Reset nhẹ */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f9f9f9;
+    margin: 20px;
+    color: #333;
+}
+
+/* Tiêu đề */
+h1, h2, h3 {
+    color: #222;
+    margin-bottom: 20px;
+}
+
+/* Bảng dữ liệu */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+    table th {
+        background: #007bff;
+        color: #fff;
+        padding: 12px;
+        text-align: left;
+    }
+
+    table td {
+        padding: 10px 12px;
+        border-bottom: 1px solid #eee;
+    }
+
+    table tr:hover {
+        background: #f1f9ff;
+    }
+
+/* Nút bấm */
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    text-decoration: none;
+    transition: 0.2s;
+    margin: 0 2px;
+}
+
+.btn-primary {
+    background: #007bff;
+    color: white;
+}
+
+.btn-success {
+    background: #28a745;
+    color: white;
+}
+
+.btn-warning {
+    background: #ffc107;
+    color: black;
+}
+
+.btn-danger {
+    background: #dc3545;
+    color: white;
+}
+
+.btn:hover {
+    opacity: 0.85;
+}
+
+/* Form Create / Edit */
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+    input:focus, select:focus {
+        border-color: #007bff;
+        outline: none;
+    }
+
+#wrapper {
+    display: flex;
+    min-height: 100vh;
+}
+
+#sidebar-wrapper {
+    width: 250px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+#page-content-wrapper {
+    flex: 1;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    margin-left: -250px;
+}
+
+.list-group-item {
+    border: none;
+    padding: 15px 20px;
+    transition: 0.2s;
+}
+
+    .list-group-item:hover {
+        background-color: #495057;
+        color: #fff;
+    }

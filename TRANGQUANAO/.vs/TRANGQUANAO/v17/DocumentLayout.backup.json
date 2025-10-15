@@ -1,0 +1,1887 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\trangquanao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:trangquanao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\phanhoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\phanhoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\controllers\\phanhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:controllers\\phanhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\models\\trangquanaocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:models\\trangquanaocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\adminbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\adminbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\khachhang\\huongdanchonsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\khachhang\\huongdanchonsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\khachhang\\chinhsachbaohanh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\khachhang\\chinhsachbaohanh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\khachhang\\chinhsachdoitra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\khachhang\\chinhsachdoitra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\chitiethdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\chitiethdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\nhacungcapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\nhacungcapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:helpers\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\khachhang\\quenmatkhau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\khachhang\\quenmatkhau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\quenmatkhauvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\quenmatkhauvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\_narbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\_narbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\khachhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\khachhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\khachhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\khachhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\khachhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\khachhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\khachhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhacungcaps\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhacungcaps\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhacungcaps\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhacungcaps\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhacungcaps\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhacungcaps\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\loais\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\loais\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\loais\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\loais\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\loais\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\loais\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\loais\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\loais\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhacungcaps\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhacungcaps\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\loais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\loais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hoadons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hanghoas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hanghoas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhacungcaps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhacungcaps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hanghoas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\chitiethds\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\chitiethds\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\chitiethds\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\chitiethds\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\chitiethds\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\chitiethds\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\chitiethds\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\chitiethds\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\chitiethds\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\chitiethds\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hoadons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hoadons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\models\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:models\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\areas\\admin\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:areas\\admin\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|d:\\k23cnt2-nvq-net core\\trangquanao\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F4A90-1785-4380-8848-185D759080B1}|TRANGQUANAO.csproj|solutionrelative:helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TRANGQUANAO",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\TRANGQUANAO.csproj",
+              "RelativeDocumentMoniker": "TRANGQUANAO.csproj",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\TRANGQUANAO.csproj",
+              "RelativeToolTip": "TRANGQUANAO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T16:43:51.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\PhanHoi\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PhanHoi\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\PhanHoi\\Index.cshtml",
+              "RelativeToolTip": "Views\\PhanHoi\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T13:13:53.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeedbackViewModel.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\FeedbackViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\FeedbackViewModel.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\FeedbackViewModel.cs",
+              "RelativeToolTip": "ViewModels\\FeedbackViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:12:33.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAowMEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:59:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:40:04.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:57:31.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhanHoiController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\PhanHoiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhanHoiController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\PhanHoiController.cs",
+              "RelativeToolTip": "Controllers\\PhanHoiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:12:58.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminBaseController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:31:33.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:29:59.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:42:29.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowEwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T08:38:22.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:55:40.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:43:50.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAJgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:42:49.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrangquanaoContext.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\TrangquanaoContext.cs",
+              "RelativeDocumentMoniker": "Models\\TrangquanaoContext.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\TrangquanaoContext.cs",
+              "RelativeToolTip": "Models\\TrangquanaoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:39:13.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T12:53:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:48:08.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:47:49.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T02:56:47.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAAAPsBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-13T03:54:14.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:43:37.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Models\\HoaDon.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Models\\HoaDon.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:01:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HangHoasController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:14:40.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:59:30.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:49:11.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Models\\KhachHang.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:28:42.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Success.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:22:43.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T12:57:39.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-13T03:54:09.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T14:03:18.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\ProductItem.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\ProductItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:08:29.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:06:22.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:19:06.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HangHoaVM.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\HangHoaVM.cs",
+              "RelativeToolTip": "ViewModels\\HangHoaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:54:57.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:43:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:05:49.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_TimKiemPanel.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TimKiemPanel.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_TimKiemPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:44:52.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AccessDenied.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:41:43.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Copyright.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_Copyright.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Copyright.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_Copyright.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Copyright.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:42:20.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HuongDanChonSize.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\HuongDanChonSize.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\HuongDanChonSize.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\HuongDanChonSize.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\HuongDanChonSize.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T13:08:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChinhSachBaoHanh.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\ChinhSachBaoHanh.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\ChinhSachBaoHanh.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\ChinhSachBaoHanh.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\ChinhSachBaoHanh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T13:08:32.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ChinhSachDoiTra.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\ChinhSachDoiTra.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\ChinhSachDoiTra.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\ChinhSachDoiTra.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\ChinhSachDoiTra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T13:08:06.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MyUtil.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\MyUtil.cs",
+              "RelativeDocumentMoniker": "Helpers\\MyUtil.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\MyUtil.cs",
+              "RelativeToolTip": "Helpers\\MyUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:58:26.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ChiTietHdsController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\ChiTietHdsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ChiTietHdsController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\ChiTietHdsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ChiTietHdsController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAIAwwIAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:38:22.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MySetting.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\MySetting.cs",
+              "RelativeDocumentMoniker": "Helpers\\MySetting.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\MySetting.cs",
+              "RelativeToolTip": "Helpers\\MySetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:58:04.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DataEncryptionExtensions.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeDocumentMoniker": "Helpers\\DataEncryptionExtensions.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\DataEncryptionExtensions.cs",
+              "RelativeToolTip": "Helpers\\DataEncryptionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:57:48.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartModel.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "ViewModels\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:54:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T12:32:52.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:05:55.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:26:58.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:55:12.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:28:58.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PageNotFound.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeToolTip": "Views\\Home\\PageNotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:51:07.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T14:05:13.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:49:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "NhanViensController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\NhanViensController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\NhanViensController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\NhanViensController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\NhanViensController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:37:21.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NhaCungCapsController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\NhaCungCapsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\NhaCungCapsController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\NhaCungCapsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\NhaCungCapsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:38:50.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoaisController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\LoaisController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\LoaisController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Controllers\\LoaisController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\LoaisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:43:06.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T13:29:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\EmailHelper.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\EmailHelper.cs",
+              "RelativeToolTip": "Helpers\\EmailHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:05:05.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "QuenMatKhau.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\QuenMatKhau.cshtml",
+              "RelativeDocumentMoniker": "Views\\KhachHang\\QuenMatKhau.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\KhachHang\\QuenMatKhau.cshtml",
+              "RelativeToolTip": "Views\\KhachHang\\QuenMatKhau.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T12:06:21.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "QuenMatKhauVM.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\QuenMatKhauVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\QuenMatKhauVM.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\QuenMatKhauVM.cs",
+              "RelativeToolTip": "ViewModels\\QuenMatKhauVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:00:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminDashboardViewModel.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:28:32.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:59:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-25T02:51:44.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_NarBar.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_NarBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NarBar.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\_NarBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NarBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:44:20.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhanViens\\Edit.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhanViens\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T12:10:23.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\KhachHangs\\Edit.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\KhachHangs\\Edit.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T09:16:32.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhanViens\\Details.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhanViens\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T12:08:07.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhanViens\\Delete.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhanViens\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T12:07:53.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\KhachHangs\\Delete.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\KhachHangs\\Delete.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:28:29.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhaCungCaps\\Details.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhaCungCaps\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T12:03:06.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhaCungCaps\\Delete.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhaCungCaps\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T12:00:53.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Loais\\Delete.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Loais\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T11:43:56.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Loais\\Create.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Loais\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T02:36:08.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhaCungCaps\\Create.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhaCungCaps\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T08:59:10.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Loais\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Loais\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:58:44.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\KhachHangs\\Details.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\KhachHangs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:30:23.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Loais\\Details.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Loais\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T11:47:53.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Loais\\Edit.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Loais\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Loais\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T09:18:48.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhaCungCaps\\Edit.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhaCungCaps\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T09:17:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\KhachHangs\\Create.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\KhachHangs\\Create.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T02:35:32.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhanViens\\Create.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhanViens\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T09:17:53.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HoaDons\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HoaDons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:54:39.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\KhachHangs\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\KhachHangs\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\KhachHangs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:56:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HangHoas\\Edit.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HangHoas\\Edit.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T08:47:13.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HangHoas\\Details.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HangHoas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T08:46:59.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HangHoas\\Delete.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HangHoas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T03:26:52.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhaCungCaps\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhaCungCaps\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhaCungCaps\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:59:51.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HangHoas\\Create.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HangHoas\\Create.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T03:26:22.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HangHoas\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HangHoas\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HangHoas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T08:40:35.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ChiTietHds\\Edit.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\ChiTietHds\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T03:05:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ChiTietHds\\Create.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\ChiTietHds\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:28:32.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ChiTietHds\\Details.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\ChiTietHds\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T03:03:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ChiTietHds\\Delete.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\ChiTietHds\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T02:57:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ChiTietHds\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\ChiTietHds\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\ChiTietHds\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:27:28.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ChiTietHd.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\ChiTietHd.cs",
+              "RelativeDocumentMoniker": "Models\\ChiTietHd.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\ChiTietHd.cs",
+              "RelativeToolTip": "Models\\ChiTietHd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:04:38.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HoaDons\\Delete.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HoaDons\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:06:02.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HoaDons\\Details.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HoaDons\\Details.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:07:59.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Models\\HangHoa.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Models\\HangHoa.cs",
+              "RelativeToolTip": "Models\\HangHoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:28:05.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HoaDons\\Edit.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HoaDons\\Edit.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T04:11:12.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HoaDons\\Create.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\HoaDons\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HoaDons\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T09:54:36.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T03:04:08.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T03:12:32.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T03:50:57.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T04:08:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\NhanViens\\Index.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Areas\\Admin\\Views\\NhanViens\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\NhanViens\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T10:01:20.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "admin.css",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\admin.css",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-01T08:29:32.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Helpers\\SessionExtensions.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "Helpers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:58:42.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:56:41.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:56:25.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "MenuLoaiVM.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MenuLoaiVM.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeToolTip": "ViewModels\\MenuLoaiVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:55:24.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "CheckoutVM.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\CheckoutVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CheckoutVM.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\CheckoutVM.cs",
+              "RelativeToolTip": "ViewModels\\CheckoutVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:54:39.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\CartItem.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartItem.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\ViewModels\\CartItem.cs",
+              "RelativeToolTip": "ViewModels\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:53:44.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:47:19.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\TRANGQUANAO\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T02:45:22.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

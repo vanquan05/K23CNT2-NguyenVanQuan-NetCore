@@ -1,0 +1,111 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.category-list li {
+    margin: 5px 0;
+    font-size: 16px;
+    color: green;
+}
+
+    .category-list li a {
+        text-decoration: none;
+        color: green;
+    }
+
+        .category-list li a:hover {
+            color: orange;
+        }
+
+.count {
+    float: right;
+    color: #555;
+}
+
+.widget-title h4 {
+    background: #4a4aff;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+
+/* ----- Owl item styling ----- */
+.owl-carousel .item {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid rgba(110, 179, 89, 0.25); /* đường viền xanh nhạt */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.04);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    padding-bottom: 10px;
+}
+
+    /* ảnh thống nhất kích thước, không bị bóp */
+    .owl-carousel .item img {
+        width: 100%;
+        height: 240px; /* chỉnh chiều cao ảnh cho đồng đều */
+        object-fit: cover; /* giữ tỉ lệ, lấp kín khung */
+        display: block;
+    }
+
+    /* nội dung sản phẩm */
+    .owl-carousel .item h5 {
+        font-size: 1rem;
+        margin: 12px 12px 6px;
+        color: #234;
+    }
+
+    .owl-carousel .item p {
+        font-size: 0.85rem;
+        margin: 0 12px 10px;
+        color: #666;
+        min-height: 44px; /* giữ chỗ cho mô tả ngắn */
+    }
+
+    .owl-carousel .item .price {
+        margin: 0 12px 12px;
+        font-weight: 700;
+        color: #2a8f3a;
+    }
+
+    /* nút thêm vào giỏ */
+    .owl-carousel .item .btn {
+        margin-right: 12px;
+    }
+
+    /* hover nâng nhẹ */
+    .owl-carousel .item:hover {
+        transform: translateY(-6px);
+        box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+
+/* đảm bảo container carousel không bị overflow hidden từ parent */
+.vesitable, .owl-carousel {
+    overflow: visible;
+}
+
+/* Ở các màn nhỏ, cho item có padding hợp lý */
+@media (max-width: 576px) {
+    .owl-carousel .item img {
+        height: 180px;
+    }
+}

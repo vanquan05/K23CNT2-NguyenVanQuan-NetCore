@@ -1,0 +1,88 @@
+﻿@model TRANGQUANAO.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Thêm mới hàng hóa";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="card shadow-lg rounded-4">
+    <div class="card-header bg-primary text-white">
+        <h4 class="mb-0">Thêm mới hàng hóa</h4>
+    </div>
+
+    <form asp-area="Admin" asp-controller="HangHoas" asp-action="Create" method="post">
+        <div class="card-body">
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <label asp-for="TenHh" class="form-label fw-bold"></label>
+                    <input asp-for="TenHh" class="form-control" />
+                    <span asp-validation-for="TenHh" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="TenAlias" class="form-label fw-bold"></label>
+                    <input asp-for="TenAlias" class="form-control" />
+                    <span asp-validation-for="TenAlias" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="MaLoai" class="form-label fw-bold"></label>
+                    <select asp-for="MaLoai" class="form-select" asp-items="ViewBag.MaLoai"></select>
+                    <span asp-validation-for="MaLoai" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="MaNcc" class="control-label"></label>
+                    <select asp-for="MaNcc" class="form-control" asp-items="ViewBag.MaNcc"></select>
+                    <span asp-validation-for="MaNcc" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="MoTaDonVi" class="form-label fw-bold"></label>
+                    <input asp-for="MoTaDonVi" class="form-control" />
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="DonGia" class="form-label fw-bold"></label>
+                    <input asp-for="DonGia" class="form-control" type="number" step="0.01" />
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="GiamGia" class="form-label fw-bold"></label>
+                    <input asp-for="GiamGia" class="form-control" type="number" />
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="NgaySx" class="form-label fw-bold"></label>
+                    <input asp-for="NgaySx" class="form-control" type="date" />
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="Hinh" class="form-label fw-bold"></label>
+                    <input asp-for="Hinh" class="form-control" />
+                </div>
+
+                <div class="col-md-6">
+                    <label asp-for="SoLanXem" class="form-label fw-bold"></label>
+                    <input asp-for="SoLanXem" class="form-control" type="number" />
+                </div>
+
+                <div class="col-12">
+                    <label asp-for="MoTa" class="form-label fw-bold"></label>
+                    <textarea asp-for="MoTa" class="form-control" rows="3"></textarea>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-footer text-end">
+            <button type="submit" class="btn btn-success px-4">💾 Ghi lại</button>
+            <a asp-action="Index" class="btn btn-secondary px-4">↩️ Quay lại</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

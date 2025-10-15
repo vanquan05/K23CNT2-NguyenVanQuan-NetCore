@@ -1,0 +1,83 @@
+﻿@model IEnumerable<TRANGQUANAO.Models.NhaCungCap>
+
+@{
+    ViewData["Title"] = "Danh sách nhà cung cấp";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<h1>Danh sách nhà cung cấp</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">➕ Thêm mới</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenCongTy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NguoiLienLac)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DienThoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiaChi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenCongTy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Logo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NguoiLienLac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.MaNcc" class="btn btn-warning">✏️ Sửa</a>
+                    <a asp-action="Details" asp-route-id="@item.MaNcc" class="btn btn-primary">🔍 Xem</a>
+                    <a asp-action="Delete" asp-route-id="@item.MaNcc" class="btn btn-danger"
+                       onclick="return confirm('Bạn có chắc chắn muốn xóa?')">🗑️ Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

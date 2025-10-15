@@ -1,0 +1,43 @@
+﻿@model TRANGQUANAO.Models.NhanVien
+
+@{
+    ViewData["Title"] = "Sửa nhân viên";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="text-primary mb-4">Sửa thông tin nhân viên</h1>
+
+<div class="card shadow-lg p-4">
+    <form asp-area="Admin" asp-controller="NhanViens" asp-action="Edit" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="MaNv" />
+
+            <div class="form-group">
+                <label asp-for="HoTen" class="control-label"></label>
+                <input asp-for="HoTen" class="form-control" />
+                <span asp-validation-for="HoTen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MatKhau" class="control-label"></label>
+                <input asp-for="MatKhau" class="form-control" />
+                <span asp-validation-for="MatKhau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+            <button type="submit" class="btn btn-success px-4 py-2">💾 Lưu lại</button>
+            <a asp-action="Index" class="btn btn-secondary px-4 py-2">⬅ Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

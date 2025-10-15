@@ -1,0 +1,103 @@
+﻿@model TRANGQUANAO.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Sửa hàng hóa";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="text-primary mb-4">Sửa thông tin hàng hóa</h1>
+
+<div class="card shadow-lg p-4">
+    <form asp-area="Admin" asp-controller="HangHoas" asp-action="Edit" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="MaHh" />
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <label asp-for="TenHh" class="form-label"></label>
+                    <input asp-for="TenHh" class="form-control" />
+                    <span asp-validation-for="TenHh" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="TenAlias" class="form-label"></label>
+                    <input asp-for="TenAlias" class="form-control" />
+                    <span asp-validation-for="TenAlias" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="MaLoai" class="control-label"></label>
+                    <select asp-for="MaLoai" class="form-control" asp-items="ViewBag.MaLoai"></select>
+                    <span asp-validation-for="MaLoai" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="MaNcc" class="control-label"></label>
+                    <select asp-for="MaNcc" class="form-control" asp-items="ViewBag.MaNCC"></select>
+                    <span asp-validation-for="MaNcc" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="MoTaDonVi" class="form-label"></label>
+                    <input asp-for="MoTaDonVi" class="form-control" />
+                    <span asp-validation-for="MoTaDonVi" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <label asp-for="DonGia" class="form-label"></label>
+                    <input asp-for="DonGia" class="form-control" />
+                    <span asp-validation-for="DonGia" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Hinh" class="form-label"></label>
+                    <input asp-for="Hinh" class="form-control" />
+                    <span asp-validation-for="Hinh" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="NgaySx" class="form-label"></label>
+                    <input asp-for="NgaySx" type="date" class="form-control" />
+                    <span asp-validation-for="NgaySx" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="GiamGia" class="form-label"></label>
+                    <input asp-for="GiamGia" class="form-control" />
+                    <span asp-validation-for="GiamGia" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="SoLanXem" class="form-label"></label>
+                    <input asp-for="SoLanXem" class="form-control" />
+                    <span asp-validation-for="SoLanXem" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="MoTa" class="form-label"></label>
+                    <textarea asp-for="MoTa" class="form-control"></textarea>
+                    <span asp-validation-for="MoTa" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="text-center mt-4">
+            <button type="submit" class="btn btn-success px-4 py-2">💾 Lưu lại</button>
+            <a asp-action="Index" class="btn btn-secondary px-4 py-2">⬅ Quay lại</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+
+
+
+               
