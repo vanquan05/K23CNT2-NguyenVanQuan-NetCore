@@ -46,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NvqBookController.cs",
-              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson04\\Controllers\\NvqBookController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NvqBookController.cs",
-              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson04\\Controllers\\NvqBookController.cs",
-              "RelativeToolTip": "Controllers\\NvqBookController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:31:59.784Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -71,8 +58,7 @@
               "RelativeToolTip": "Models\\NvqBook.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:15:02.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T15:15:02.078Z"
             },
             {
               "$type": "Document",
@@ -84,8 +70,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:59:34.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T14:59:34.844Z"
             },
             {
               "$type": "Document",
@@ -97,8 +82,7 @@
               "RelativeToolTip": "Views\\Shared\\NvqHome\\NvqAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T14:53:17.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T14:53:17.267Z"
             },
             {
               "$type": "Document",
@@ -110,8 +94,7 @@
               "RelativeToolTip": "Controllers\\NvqHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T14:45:10.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T14:45:10.88Z"
             },
             {
               "$type": "Document",
@@ -123,8 +106,7 @@
               "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T14:40:59.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T14:40:59.069Z"
             },
             {
               "$type": "Document",
@@ -136,8 +118,7 @@
               "RelativeToolTip": "Views\\Shared\\_Header.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T14:38:31.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T14:38:31.139Z"
             },
             {
               "$type": "Document",
@@ -154,6 +135,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NvqBookController.cs",
+              "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson04\\Controllers\\NvqBookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NvqBookController.cs",
+              "ToolTip": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson04\\Controllers\\NvqBookController.cs",
+              "RelativeToolTip": "Controllers\\NvqBookController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:31:59.784Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\K23CNT2-NVQ-Net Core\\K23CNT2-NguyenVanQuan-NetCore\\NvqLesson04\\Views\\_ViewStart.cshtml",
@@ -162,8 +155,17 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-17T14:26:35.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T14:26:35.096Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1045,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
